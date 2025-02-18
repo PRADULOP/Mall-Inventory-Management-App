@@ -9,9 +9,13 @@ The **Mall Inventory Management App** is a full-stack application that helps man
 
 ## Project Structure
 Mall Inventory Management App/
+
 ├── client/    # React frontend
+
 ├── server/    # Node.js backend 
+
 ├── fastapi/   # Python FastAPI backend
+
 └── README.md  # Documentation
 
 ## Prerequisites
