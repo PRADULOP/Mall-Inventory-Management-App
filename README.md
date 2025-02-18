@@ -1,5 +1,3 @@
-Here's the correct README formatting:
-
 ```markdown
 # Mall Inventory Management App
 
@@ -32,16 +30,6 @@ Ensure you have the following installed:
    ```sh
    cd client
    ```
-```
-
-Key changes made:
-1. Added proper spacing between sections
-2. Enclosed the project structure in a code block using triple backticks
-3. Properly aligned bullets and sublists
-4. Added consistent formatting for headings and text blocks
-5. Used proper markdown code block formatting for shell commands
-
-Would you like me to help format the rest of the README as well?
 
 2. Install the necessary dependencies:
    ```sh
