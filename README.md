@@ -26,18 +26,25 @@ Ensure you have the following installed:
 
 ## Installation & Setup
 
+### 1️⃣ Setup Git LFS (if not already installed)
+Before cloning the repository, ensure that Git LFS is installed to handle large files (like the ML models).
+
+1. Install Git LFS by running:
+   ```sh
+   git lfs install
+
 ### 1️⃣ Setup & Run Client (Frontend)
-1. Navigate to the client folder:
+2. Navigate to the client folder:
    ```sh
    cd client
    ```
 
-2. Install the necessary dependencies:
+3. Install the necessary dependencies:
    ```sh
    npm install
    ```
 
-3. Run the client:
+4. Run the client:
    ```sh
    npm run dev
    ```
