@@ -1,12 +1,11 @@
-```markdown
-# Mall Inventory Management App
+# Mall Inventory Management App  
 
-## Overview
-The **Mall Inventory Management App** is a full-stack application that helps manage inventory efficiently. It consists of three main components:
+## Overview  
+The **Mall Inventory Management App** is a full-stack application that helps manage inventory efficiently. It consists of three main components:  
 
-- **Client** (Frontend) – React-based application 
-- **Server** (Backend) – Node.js with Express
-- **FastAPI** (ML Model/API) – Python FastAPI backend
+- **Client** (Frontend) – React-based application  
+- **Server** (Backend) – Node.js with Express  
+- **FastAPI** (ML Model/API) – Python FastAPI backend  
 
 ## Project Structure
 Mall Inventory Management App/
