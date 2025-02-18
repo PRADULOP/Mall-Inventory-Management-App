@@ -33,24 +33,24 @@ Before cloning the repository, ensure that Git LFS is installed to handle large 
    ```sh
    git lfs install
 
-### 1️⃣ Setup & Run Client (Frontend)
-2. Navigate to the client folder:
+### 2️⃣ Setup & Run Client (Frontend)
+1. Navigate to the client folder:
    ```sh
    cd client
    ```
 
-3. Install the necessary dependencies:
+2. Install the necessary dependencies:
    ```sh
    npm install
    ```
 
-4. Run the client:
+3. Run the client:
    ```sh
    npm run dev
    ```
    The frontend will be accessible at `http://localhost:5173/`.
 
-### 2️⃣ Setup & Run Server (Backend)
+### 3️⃣ Setup & Run Server (Backend)
 1. Navigate to the `server` folder:
    ```sh
    cd server
@@ -67,7 +67,7 @@ Before cloning the repository, ensure that Git LFS is installed to handle large 
    ```
    The backend will be accessible at `http://localhost:3000`.
 
-### 3️⃣ Setup & Run FastAPI (ML API)
+### 4️⃣ Setup & Run FastAPI (ML API)
 
 #### 🔹 Download & Setup the ML Model
 * Download the ML Model from Google Drive: 📥 [ML Model Drive Link](https://drive.google.com/file/d/1oxxCNgpB3WzsrVwIP457AK8aqFqKHlnf/view?usp=sharing)
