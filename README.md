@@ -1,7 +1,7 @@
 # Mall Inventory Management App  
 
 ## Overview  
-The **Mall Inventory Management App** is a full-stack application that helps manage inventory efficiently. It consists of three main components:  
+**Mall Inventory Management App** is a web-based platform where customers can search products across stores, get recommendations, and use image-based search, while managers can manage products, inventory, orders, and carousel ads. The app consists of three main components: 
 
 - **Client** (Frontend) – React-based application  
 - **Server** (Backend) – Node.js with Express  
