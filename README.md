@@ -41,7 +41,7 @@ Ensure you have the following installed:
    ```sh
    npm run dev
    ```
-   The frontend will be accessible at `http://localhost:3000`.
+   The frontend will be accessible at `http://localhost:5173/`.
 
 ### 2️⃣ Setup & Run Server (Backend)
 1. Navigate to the `server` folder:
@@ -58,7 +58,7 @@ Ensure you have the following installed:
    ```sh
    nodemon server.js
    ```
-   The backend will be accessible at `http://localhost:5000`.
+   The backend will be accessible at `http://localhost:3000`.
 
 ### 3️⃣ Setup & Run FastAPI (ML API)
 
@@ -129,6 +129,3 @@ Ensure you have the following installed:
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-```
