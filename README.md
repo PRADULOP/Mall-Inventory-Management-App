@@ -63,7 +63,7 @@ Ensure you have the following installed:
 ### 3️⃣ Setup & Run FastAPI (ML API)
 
 #### 🔹 Download & Setup the ML Model
-* Download the ML Model from Google Drive: 📥 **[ML Model Drive Link]** (add your drive link here)
+* Download the ML Model from Google Drive: 📥 **[ML Model Drive Link]** (https://drive.google.com/file/d/1oxxCNgpB3WzsrVwIP457AK8aqFqKHlnf/view?usp=sharing)
 * Create a folder named `ml_models` inside the `fastapi` directory:
   ```sh
   mkdir fastapi/ml_models
