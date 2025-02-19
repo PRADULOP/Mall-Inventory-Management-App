@@ -1,4 +1,5 @@
 # Mall Inventory Management App  
+![Mall Inventory Management](assets/mall_inventory.png)
 
 ## Overview  
 **Mall Inventory Management App** is a web-based platform where customers can search products across stores, get recommendations, and use image-based search, while managers can manage products, inventory, orders, and carousel ads. The app consists of three main components: 
